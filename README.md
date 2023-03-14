@@ -4,7 +4,7 @@
 <a href="https://twitter.com/navinkumar622">
   <img align="left" alt="Navin Kumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/neo062">
+<a href="https://www.linkedin.com/in/neo62/">
   <img align="left" alt="Navin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
