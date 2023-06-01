@@ -1,12 +1,12 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Navin Kummar 👋
 
-I'm a passionate MERN stack developer with [X] years of experience in building robust and scalable web applications. I love creating innovative solutions and bringing ideas to life through code. 
-
+I'm a passionate MERN stack developer with 1 years of experience in building robust and scalable web applications. I love creating innovative solutions and bringing ideas to life through code. 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="248" />
 ## 💼 Professional Experience
 
-- **Company Name:** [Company]
+- **Company Name:** Smith Retail Venture Pvt. Ltd.
 - **Position:** MERN Stack Developer
-- **Duration:** [Date Range]
+- **Duration:** Feb 2023 - Present
 
 In this role, I worked on various projects, collaborating with cross-functional teams to deliver high-quality software solutions. Some of my key responsibilities and achievements include:
 
@@ -23,7 +23,7 @@ In this role, I worked on various projects, collaborating with cross-functional 
 ## 🚀 Skills
 
 - **Programming Languages:** JavaScript (ES6+)
-- **Front-end:** HTML5, CSS3, React.js, Redux, Material-UI, Bootstrap, styled components
+- **Front-end:** HTML5, CSS3, React.js, Redux, Material-UI, Bootstrap, styled components,Tailwind 
 - **Back-end:** Node.js, Express.js, MongoDB, Mongoose, RESTful APIs
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **Testing/Debugging:** Jest, Enzyme, Chrome DevTools
@@ -33,18 +33,18 @@ In this role, I worked on various projects, collaborating with cross-functional 
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neo062&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neo062&layout=compact&theme=radical)
 
 ## 🌱 Education
 
-- **Degree:** [Your Degree]
-- **University:** [University Name]
-- **Year:** [Year]
+- **Degree:** Bachelor in Computer Applications 
+- **University:** Hemvati Nandan Bahuguna Garhwal University 
+- **Year:** 2022
 
 ## 📫 Let's Connect
 
-I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at [Your Email] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile). Let's discuss your ideas and how we can work together to bring them to life!
+I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at [Your Email] or connect with me on [LinkedIn](https://www.linkedin.com/in/neo62). Let's discuss your ideas and how we can work together to bring them to life!
 
 Thanks for visiting my profile! Have a great day! 👍
