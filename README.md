@@ -1,7 +1,7 @@
 # Hello, I'm Navin Kummar 👋
 
 I'm a passionate MERN stack developer with 1 years of experience in building robust and scalable web applications. I love creating innovative solutions and bringing ideas to life through code. 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="248" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
 ## 💼 Professional Experience
 
 - **Company Name:** Smith Retail Venture Pvt. Ltd.
