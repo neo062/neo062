@@ -33,7 +33,7 @@ In this role, I worked on various projects, collaborating with cross-functional 
 ## 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neo062&show_icons=true&theme=radical)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="480" height="280" />
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neo062&layout=compact&theme=radical)
 
 ## 🌱 Education
