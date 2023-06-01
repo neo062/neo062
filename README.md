@@ -36,8 +36,6 @@ In this role, I worked on various projects, collaborating with cross-functional 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neo062&layout=compact&theme=radical)
 
-![Coding](https://example.com/path/to/coding_image.png)
-
 ## 🌱 Education
 
 - **Degree:** Bachelor in Computer Applications 
