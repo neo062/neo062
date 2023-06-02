@@ -45,6 +45,7 @@ In this role, I worked on various projects, collaborating with cross-functional 
 ## 📫 Let's Connect
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at [Your Email] or connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Navin%20Kumar-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/neo62/))
-[![GitHub](https://img.shields.io/badge/GitHub-Navin%20Kumar-black?style=flat-square&logo=github)](https://github.com/neo062). Let's discuss your ideas and how we can work together to bring them to life!
+[![GitHub](https://img.shields.io/badge/GitHub-Navin%20Kumar-black?style=flat-square&logo=github)](https://github.com/neo062)
+. Let's discuss your ideas and how we can work together to bring them to life!
 
 Thanks for visiting my profile! Have a great day! 👍
